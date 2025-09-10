@@ -93,6 +93,10 @@ app.get("/terms",(req,res)=>{
   res.render("listings/terms.ejs");
 });
 
+app.use((req, res) => {
+    res.redirect('/listings');
+});
+
 app.use((req,res,next)=>{
   next(new ExpressError(404,"page not found"));
 });
