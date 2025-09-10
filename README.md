@@ -49,12 +49,12 @@ It’s designed with scalability and security in mind, making it ideal for prope
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/wandernest.git
+    git clone https://github.com/your-username/WanderNest.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd wanderNest
+    cd WanderNest
     ```
 
 3. Install dependencies:
