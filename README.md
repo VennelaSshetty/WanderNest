@@ -1,6 +1,6 @@
 # WanderNest 🌍
 
-WanderNest is a full-stack web application that allows users to explore, share, and manage places around the world, similar to Airbnb. Users can browse detailed listings of places including price, location, country, category, description, and title. The platform supports user authentication, adding new places, editing and deleting listings by their owners, filtering by category, searching, and writing reviews for any place.
+WanderNest is a full-stack web application that allows users to explore, share, and manage places around the world. Users can browse detailed listings of places including price, location, country, category, description, and title. The platform supports user authentication, adding new places, editing and deleting listings by their owners, filtering by category, searching, and writing reviews for any place.
 
 ---
 
